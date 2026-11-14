@@ -47,8 +47,8 @@ NOTE: CUDA support is only for NVIDIA GPUs, and only CUDA 12.6 is supported at t
 
 1. Clone the repo
 
-git clone https://github.com/MAKCUAI/Eventuri-AI-MAKCU-v2
-cd Eventuri-AI-MAKCU-v2
+git clone https://github.com/Ahmo934/Eventuri-AI-MAKCU
+cd Eventuri-AI-MAKCU
 
 ---
 
